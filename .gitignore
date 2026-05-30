@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
 
+# Archives
+*.zip
+
 # macOS
 .DS_Store
 
